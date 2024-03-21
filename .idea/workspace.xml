@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81320448-43a7-442a-934d-277f3b59f7d7" name="Changes" comment="find the number of digits">
-      <change afterPath="$PROJECT_DIR$/src/FirstLastLetterComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HalfWordComparison.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,17 +20,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="E5-4" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E5-3" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dyW0YAnN2hO1c6b83VbPqG0iWd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,11 +46,12 @@
   "keyToString": {
     "Application.FirstLastLetterComparison.executor": "Run",
     "Application.FloatingPointClassifier.executor": "Run",
+    "Application.HalfWordComparison.executor": "Run",
     "Application.NumberClassifier.executor": "Run",
     "Application.NumberOfDigits.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E5-4",
+    "git-widget-placeholder": "E5-5",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
